@@ -1,0 +1,12 @@
+[package]
+name = "slippy_map_tilenames"
+version = "0.1.0"
+authors = ["oldmammuth <davidedelpapa@gmail.com>"]
+description = "Converts lon/lat coordinates to slippy map tile format (OpenStreetMap/Google Map format)."
+repository = "https://github.com/oldmammuth/slippy_map_tilenames"
+readme = "README.md"
+keywords = ["openstreetmap", "osm", "geography"]
+categories = ["algorithms", "science"]
+license = "MIT"
+
+[dependencies]
